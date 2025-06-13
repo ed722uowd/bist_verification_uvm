@@ -45,7 +45,7 @@ This is the Circuit Under Test and compares the Most significant 4 bits with the
 
 #### Module MISR_compactor
 
-This circuit generates a signature using the inputs from the Circuit under test (CUT). A seed value is initially loaded 00000000. The MISR is based off the primitive polynomial $phi(x) = x^8+x^6+x^5+x+1$ (same as the PSRG).
+This circuit generates a signature using the inputs from the Circuit under test (CUT). A seed value is initially loaded 00000000. The MISR is based off the primitive polynomial $phi(x) = x^8+x^6+x^5+x+1$ (same as the PRPG).
 
 ---
 
