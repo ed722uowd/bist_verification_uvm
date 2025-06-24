@@ -93,7 +93,7 @@ This will:
 Once the golden values are generated:
 
 1. Open the generated `golden_val_file.txt` or copy the printed output from the terminal.
-2. Go to the [EDA Playground link](https://www.edaplayground.com/some-link).
+2. Go to the [EDA Playground link](https://www.edaplayground.com/x/7hUK).
 3. Paste the golden values into the text file section (`golden_val_file.txt`) provided in the simulation setup.
 4. Make sure you’ve selected a tool like **Questa** or **VCS**.
 5. Click **Run** to start the simulation.
