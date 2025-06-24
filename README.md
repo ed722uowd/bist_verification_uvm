@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project implements a **Built-In Self Test (BIST)** architecture using **Verilog** and verified the design using **UVM** written in **SystemVerilog** and the **Universal Verification Methodology (UVM)** framework. A **Design Under Test (DUT)** generates psuedo random patterns and feeds it into a Circuit (compatator) and generates a signature using a MISR. The outputs are validated against **golden reference values** generated using C++.
+This project implements a **Built-In Self Test (BIST)** architecture using **Verilog** and verified the design using **Universal Verification Methodology (UVM)** framework written in **SystemVerilog**. A **Design Under Test (DUT)** generates psuedo random patterns and feeds it into a Circuit (compatator) and generates a signature using a MISR. The outputs are validated against **golden reference values** generated using C++.
 
 ---
 
